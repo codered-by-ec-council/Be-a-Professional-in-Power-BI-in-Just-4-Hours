@@ -1,2 +1,2 @@
-# Be-a-Professional-in-Power-BI-in-Just-4-Hours
-Be a Professional in Power BI in Just 4 Hours, by EC-Council
+# Learn-Power-BI-Part-2
+Learn Power BI - Part 2, by EC-Council
